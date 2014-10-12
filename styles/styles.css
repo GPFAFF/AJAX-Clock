@@ -1,0 +1,23 @@
+body{
+	background: orange;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+header{
+	font-size: 40px;
+	margin-top: 100px;
+}
+
+.results{
+	display: none;
+}
+.local-time{
+	margin-top: 40px;
+}
+.wrapper{
+	width: 600px;
+	height: auto;
+	border: solid 3px black;
+	margin: 40px auto;
+}
